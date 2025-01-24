@@ -43,11 +43,6 @@ export default function QuizPage() {
 	)
 	const [hasAnsweredIncorrectly, setHasAnsweredIncorrectly] = useState(false)
 
-	// useEffect(() => {
-	// 	// Load words directly instead of fetching
-	// 	setWords(FREE_WORDS.slice(0, 10))
-	// }, [])
-
 	const currentWord = words[currentWordIndex]
 
 	const handleAnswerClick = (definitionIndex: number) => {
@@ -81,6 +76,19 @@ export default function QuizPage() {
 		setShowDialog(false)
 		setSelectedDefinition(null)
 	}
+
+	// Reset selection when dialog is closed
+	const handleDialogChange = (open: boolean) => {
+		setShowDialog(open)
+		if (!open) {
+			setSelectedDefinition(null)
+		}
+	}
+
+	// Reset selection when word changes
+	useEffect(() => {
+		setSelectedDefinition(null)
+	}, [currentWordIndex])
 
 	if (words.length === 0) {
 		return (
@@ -163,7 +171,7 @@ export default function QuizPage() {
 					</CardContent>
 				</Card>
 
-				<Dialog open={showDialog} onOpenChange={setShowDialog}>
+				<Dialog open={showDialog} onOpenChange={handleDialogChange}>
 					<DialogContent>
 						<DialogHeader>
 							<DialogTitle>Incorrect Answer</DialogTitle>
