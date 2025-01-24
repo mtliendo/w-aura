@@ -1,0 +1,213 @@
+[
+	{
+		"word": "rizz",
+		"sentence": "The way he's so comfortable around girls...he has mad rizz!",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "Charisma or ability to charm, especially in flirting",
+				"correct": true
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "skibidi",
+		"definitions": [
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A viral dance trend",
+				"correct": true
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "big back",
+		"definitions": [
+			{
+				"definition": "Slang for someone with a muscular or strong build",
+				"correct": true
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "aura",
+		"definitions": [
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "The vibe or energy a person gives off",
+				"correct": true
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "low key",
+		"definitions": [
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "Subtly or quietly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "high key",
+		"definitions": [
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "Obviously or openly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "pause",
+		"definitions": [
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "Said after something that could be interpreted as awkward or suggestive",
+				"correct": true
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "sus",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "Short for 'suspicious,' meaning something or someone seems off",
+				"correct": true
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "NPC",
+		"definitions": [
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "Someone who acts predictably or lacks individuality",
+				"correct": true
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "bet",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "Slang for 'okay' or 'sure'",
+				"correct": true
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			}
+		]
+	}
+]

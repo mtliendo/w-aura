@@ -1,0 +1,758 @@
+[
+	{
+		"word": "rizz",
+		"definitions": [
+			{
+				"definition": "Charisma or ability to charm, especially in flirting",
+				"correct": true
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "skibidi",
+		"definitions": [
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A viral dance trend",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "big back",
+		"definitions": [
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "Slang for someone with a muscular or strong build",
+				"correct": true
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "aura",
+		"definitions": [
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "The vibe or energy a person gives off",
+				"correct": true
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "low key",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "Subtly or quietly",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "high key",
+		"definitions": [
+			{
+				"definition": "Obviously or openly",
+				"correct": true
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "pause",
+		"definitions": [
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "Said after something that could be interpreted as awkward or suggestive",
+				"correct": true
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "sus",
+		"definitions": [
+			{
+				"definition": "Short for 'suspicious,' meaning something or someone seems off",
+				"correct": true
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "NPC",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			},
+			{
+				"definition": "Someone who acts predictably or lacks individuality",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "bet",
+		"definitions": [
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "Slang for 'okay' or 'sure'",
+				"correct": true
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "goofy ahh",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "Something silly or absurd",
+				"correct": true
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "no cap",
+		"definitions": [
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "Saying 'no lie' or 'I'm being serious'",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "cap",
+		"definitions": [
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "Slang for 'lie' or 'that's not true'",
+				"correct": true
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "vibe check",
+		"definitions": [
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "Testing the mood or energy of a situation",
+				"correct": true
+			},
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "it\u2019s giving",
+		"definitions": [
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "Describes the vibe or aesthetic of something",
+				"correct": true
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "mid",
+		"definitions": [
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "Describes something average or mediocre",
+				"correct": true
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "drip",
+		"definitions": [
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "Refers to someone\u2019s stylish clothing or appearance",
+				"correct": true
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "slaps",
+		"definitions": [
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "Describes something really good, usually music",
+				"correct": true
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "ratio",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "When a reply gets more likes than the original post",
+				"correct": true
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "touch grass",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "Telling someone to get offline and experience the real world",
+				"correct": true
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "fanum tax",
+		"definitions": [
+			{
+				"definition": "A term for unexpected extra costs or fees, often for convenience or luxury",
+				"correct": true
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "Mewing",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A facial exercise technique aimed at improving jawline and facial structure",
+				"correct": true
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "gyatt",
+		"definitions": [
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "A playful exclamation of surprise or admiration, often used for someone's appearance",
+				"correct": true
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "sigma",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "Refers to a lone wolf personality who is independent and self-reliant",
+				"correct": true
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "ohio",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "Used as a meme to describe something weird or chaotic, referencing 'only in Ohio' jokes",
+				"correct": true
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "giga",
+		"definitions": [
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "A prefix meaning extremely large or impressive, used as slang for exaggeration",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "chad",
+		"definitions": [
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "Slang for an attractive, confident, and outgoing male",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "giga chad",
+		"definitions": [
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "An exaggerated version of a 'Chad,' often symbolizing peak male physique or confidence",
+				"correct": true
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "no-diddy",
+		"definitions": [
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "Slang for not having time or interest in something",
+				"correct": true
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			},
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "glazzing",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "Overly praising someone or something to an extreme degree",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "looksmaxxing",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			},
+			{
+				"definition": "Improving your appearance to the fullest extent possible",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "bussin",
+		"definitions": [
+			{
+				"definition": "Used to describe something that\u2019s exceptionally good, especially food",
+				"correct": true
+			},
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "ate",
+		"definitions": [
+			{
+				"definition": "A nickname for something or someone common",
+				"correct": false
+			},
+			{
+				"definition": "Slang for doing something exceptionally well or flawlessly",
+				"correct": true
+			},
+			{
+				"definition": "A casual way to talk about social media",
+				"correct": false
+			},
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "delulu",
+		"definitions": [
+			{
+				"definition": "A reference to something popular online",
+				"correct": false
+			},
+			{
+				"definition": "Short for 'delusional,' used to describe someone disconnected from reality",
+				"correct": true
+			},
+			{
+				"definition": "A trendy term for something unusual",
+				"correct": false
+			},
+			{
+				"definition": "An expression used to describe emotions",
+				"correct": false
+			}
+		]
+	},
+	{
+		"word": "mogging",
+		"definitions": [
+			{
+				"definition": "A type of fashion trend",
+				"correct": false
+			},
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A term people use to describe something outdated",
+				"correct": false
+			},
+			{
+				"definition": "Dominating or overshadowing someone, usually in appearance or performance",
+				"correct": true
+			}
+		]
+	},
+	{
+		"word": "goat",
+		"definitions": [
+			{
+				"definition": "A humorous word for everyday situations",
+				"correct": false
+			},
+			{
+				"definition": "A phrase used in competitive sports",
+				"correct": false
+			},
+			{
+				"definition": "Acronym for 'Greatest of All Time'",
+				"correct": true
+			},
+			{
+				"definition": "A way to describe someone's actions",
+				"correct": false
+			}
+		]
+	}
+]
